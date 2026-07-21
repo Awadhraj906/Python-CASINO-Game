@@ -660,5 +660,6 @@ def checkout():
     print("Here is your",coin,"Rupees you get")
     tm.sleep(1)
     slprint("Thankyou...visit again")
+    exit()
 money()
 checkout()
